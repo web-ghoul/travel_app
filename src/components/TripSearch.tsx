@@ -94,7 +94,9 @@ const TripSearch = () => {
             </div>
           </div>
 
-          <button type="button">بحث</button>
+          <div className="search_btn">
+            <button type="button">بحث</button>
+          </div>
         </div>
       </div>
     </div>
