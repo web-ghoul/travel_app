@@ -30,7 +30,7 @@ main::after {
   position: absolute;
   left: 0;
   top: 0;
-  background-image: url("images/bg.svg");
+  background-image: url("/images/bg.svg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -177,7 +177,7 @@ header nav ul li:hover {
   border-radius: 20px;
   height: 800px;
   box-shadow: #999 2px 2px 2px;
-  background-image: url("images/bg_small.svg");
+  background-image: url("/images/bg_small.svg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
