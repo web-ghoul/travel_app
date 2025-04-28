@@ -225,7 +225,6 @@ header nav ul li:hover {
   display: grid;
   align-items: center;
   justify-content: stretch;
-  align-self: stretch;
   position: relative;
   gap: 10px;
 }
@@ -327,7 +326,7 @@ header nav ul li:hover {
   color: #F1F5F9;
   font-size: 24px;
   text-align: center;
-  height: 100% !important;
+  /* height: 100% !important; */
   padding: 30px 400px !important;
   border: none;
   border-radius: 10px;
@@ -346,6 +345,7 @@ header nav ul li:hover {
   display: grid;
   justify-content: center;
   align-items: center;
+  align-self: center;
   gap: 2px;
   overflow: hidden;
   height: 100%;

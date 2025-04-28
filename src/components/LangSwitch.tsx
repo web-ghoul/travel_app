@@ -1,5 +1,3 @@
-import React from "react";
-
 const LangSwitch = () => {
   return (
     <div className="lang_switch">

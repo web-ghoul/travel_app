@@ -1,4 +1,3 @@
-import React from "react";
 import LangSwitch from "./LangSwitch";
 
 const Header = () => {
